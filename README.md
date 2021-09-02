@@ -24,4 +24,4 @@ This project is currently in development proccess for more information checkout 
 ## Screenshot Previews
 [none at the moment were currently in development stages]
 
-support the project by buying us a coffee ☕ [here.](#)
+support the project by buying us a coffee ☕ [here.](https://www.buymeacoffee.com/evoluted)
