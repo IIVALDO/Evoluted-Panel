@@ -2,7 +2,7 @@
 
 [Discord](https://discord.gg/MXeash8GUC) | [Documentation](#) | [Website](#)
 
-Evoluted Panel is a web-based Game Server Management System. Versatile Panel allows you to manage multiple different game servers all from one central location. You can give other users their own servers or allow them access to your servers.
+Evoluted Panel is a web-based Game Server Management System. Evoluted Panel allows you to manage multiple different game servers all from one central location. You can give other users their own servers or allow them access to your servers.
 
 ## Overview
 
